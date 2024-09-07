@@ -1,6 +1,6 @@
 # FreeRTOS Projects
 
-This repository contains the source code for the **FreeRTOS Projects**. Visit the "Real-Time Operating Systems (RTOS)" section on my website for more details: [https://jackklee.com/real-time-operating-systems/](https://kyungjae.com/notes/real-time-operating-systems/).
+This repository contains the source code for the **FreeRTOS Projects**. Visit the "Real-Time Operating Systems (RTOS)" section on my website for more details: [https://kyungjae.com/notes/real-time-operating-systems/](https://kyungjae.com/notes/real-time-operating-systems/).
 
 
 
